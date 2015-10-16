@@ -1,33 +1,33 @@
-    effective_date: 1/1/2000
-    consultant_name: Clark Kent
-    client_name: LexCorp, Inc., a Delaware corporation
-    client_signatory: Lex Luthor, its President
-    governing_state: California
-    court_location: San Francisco, California
+    effective_date: 10/15/2015
+    consultant_name: Dan Jones
+    client_name: Dave Peterson
+    client_signatory: Dave Peterson
+    governing_state: Utah
+    court_location: Salt Lake City, Utah
     duration: one month
     max_hours: twenty (20)
     rate: 100
     deposit: 1000
     late_fee: five percent (5%)
-    net_days: ten (10)
+    net_days: twenty (20)
 
 # CONSULTING AGREEMENT
 
-This CONSULTING AGREEMENT (the “Agreement”) is made as of {{effective_date}} (the “Effective Date”) by and between {{consultant_name}} (“Consultant”) and {{client_name}} (“Client”).
+This CONSULTING AGREEMENT (the “Agreement”) is made as of 10/15/2015 (the “Effective Date”) by and between Dan Jones (“Consultant”) and Dave Peterson (“Client”).
 
 WHEREAS, Client desires to engage Consultant to perform technical consulting services (the “Services”), and Consultant desires to perform such Services.
 
 NOW, THEREFORE, Consultant and Client (collectively the “Parties”), for good and valuable consideration, the receipt of which is hereby acknowledged, agree as follows:
 
 1.	Services.
-For a period of approximately {{duration}} commencing on the Effective Date (or for such longer period as the Parties may agree in writing, which need not be a formal amendment to this Agreement), Consultant will consult and work with Client’s personnel on such specific assignments as are provided from time to time by Company in email or other written directions (the “Services”). Consultant will perform the Services in a diligent, professional and workmanlike manner, consistent with industry standard.
-Consultant will not perform or invoice Client for Services in excess of {{max_hours}} hours per week without Client’s prior written consent.
+For a period of approximately 20 days commencing on the Effective Date (or for such longer period as the Parties may agree in writing, which need not be a formal amendment to this Agreement), Consultant will consult and work with Client’s personnel on such specific assignments as are provided from time to time by Company in email or other written directions (the “Services”). Consultant will perform the Services in a diligent, professional and workmanlike manner, consistent with industry standard.
+Consultant will not perform or invoice Client for Services in excess of 20 hours per week without Client’s prior written consent.
 
 2.	Fees & Expenses.
-Client shall pay Consultant at the rate of ${{rate}} per hour for the Services, and reimburse Consultant for reasonable out-of-pocket expenses incurred in connection with the Services.
-An initial deposit of ${{deposit}} will be due prior to the commencement of the Services, and fees will be deducted from such deposit until it is exhausted.
+Client shall pay Consultant at the rate of $100 per hour for the Services, and reimburse Consultant for reasonable out-of-pocket expenses incurred in connection with the Services.
+An initial deposit of $1000 will be due prior to the commencement of the Services, and fees will be deducted from such deposit until it is exhausted.
 Consultant will transmit an invoice to Client every two weeks, and Client will pay Consultant all amounts due within {{net_days}} days of receipt of such invoice.
-Late payments shall be subject to a late payment fee of {{late_fee}} of the amount due.
+Late payments shall be subject to a late payment fee of 5% of the amount due.
 
 3.	Intellectual Property.
 [Coding:]
@@ -62,18 +62,14 @@ IN WITNESS WHEREOF, the Parties have executed this Agreement as of the Effective
 “CONSULTANT”
 
 
-
 By: ____________________________________________
 
-{{consultant_name}}
+{{Dan Jones}}
 
 
 “CLIENT”
 
-{{client_name}},
-a {{client_location}} corporation
-
 
 By: ____________________________________________
 
-{{client_signatory}}
+{{Dave Peterson}}
