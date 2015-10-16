@@ -5,9 +5,9 @@
     governing_state: Utah
     court_location: Salt Lake City, Utah
     duration: one month
-    max_hours: twenty (20)
-    rate: 100
-    deposit: 1000
+    max_hours: forty (40)
+    rate: $100
+    deposit: $1000
     late_fee: five percent (5%)
     net_days: twenty (20)
 
@@ -21,7 +21,7 @@ NOW, THEREFORE, Consultant and Client (collectively the “Parties”), for good
 
 1.	Services.
 For a period of approximately 20 days commencing on the Effective Date (or for such longer period as the Parties may agree in writing, which need not be a formal amendment to this Agreement), Consultant will consult and work with Client’s personnel on such specific assignments as are provided from time to time by Company in email or other written directions (the “Services”). Consultant will perform the Services in a diligent, professional and workmanlike manner, consistent with industry standard.
-Consultant will not perform or invoice Client for Services in excess of 20 hours per week without Client’s prior written consent.
+Consultant will not perform or invoice Client for Services in excess of 40 hours per week without Client’s prior written consent.
 
 2.	Fees & Expenses.
 Client shall pay Consultant at the rate of $100 per hour for the Services, and reimburse Consultant for reasonable out-of-pocket expenses incurred in connection with the Services.
